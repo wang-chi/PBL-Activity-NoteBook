@@ -1,3 +1,14 @@
-# My Awesome Book
+# 智慧聯網雲端系統PBL專題：參與活動
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+統計學家教你穩扎穩打Ｒ語言資料分析
+
+
+
+
+
+### 2017 TCN創客松Start-Up
+
+
+
