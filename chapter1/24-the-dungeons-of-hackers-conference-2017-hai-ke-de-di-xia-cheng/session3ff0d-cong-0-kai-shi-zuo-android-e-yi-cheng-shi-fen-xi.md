@@ -23,7 +23,15 @@ META-INF: 簽名檔
 
 res:icon
 
+##### \(smack技術\)遠端遙控木法分析
 
+smack底層是xmpp
+
+安裝過程中會取得哪些權限
+
+逆向會放到apk studio
+
+隱藏icon讓使用者感受不到
 
 
 
