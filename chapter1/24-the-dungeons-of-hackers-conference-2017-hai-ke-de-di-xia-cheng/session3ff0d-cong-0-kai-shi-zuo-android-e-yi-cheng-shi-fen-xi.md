@@ -35,3 +35,23 @@ smack底層是xmpp
 
 
 
+攔截封包
+
+###### Android Http
+
+* HttpURLConnection
+* HiipClient
+* HttpProtocolParams
+* OKHttp
+* Volley
+* AsyncHttpClient
+
+從套件屬性了解
+
+SO\(Share object, 公想褲\)
+
+* 二進制
+* 動態連結褲（類似windows, dll檔\)
+* 
+
+
