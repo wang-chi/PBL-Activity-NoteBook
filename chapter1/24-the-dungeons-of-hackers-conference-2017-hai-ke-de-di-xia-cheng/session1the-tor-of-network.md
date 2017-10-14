@@ -1,6 +1,6 @@
 ### The Tor of Network
 
-Tor \( the onion router, 洋蔥路由器\) 
+Tor \( the onion router, 洋蔥路由器\)
 
 P2P
 
@@ -14,9 +14,7 @@ Developed in the mid-1990s by United State Naval Research Laboratory \(美軍\)
 
 list-&gt;random-&gt;pass-&gt;
 
-https://www.torproject.org/download/download.html.en
-
-
+[https://www.torproject.org/download/download.html.en](https://www.torproject.org/download/download.html.en)
 
 DuckDuckGo
 
@@ -32,23 +30,29 @@ Rent-A-Hacker
 
 Hitman Network
 
-
-
 Deep Web or Dark Web
 
-\(附圖片\) 
-
-
+\(附圖片\)
 
 #### how to
 
 * 16個字元.onion
 * pseudo-top-level-domain\(TLD\)
 * Unable to be resolved by DNS
-  * unable to asses if using normal 
+  * unable to assess if using normal 
 * * Tor2Web can asses 
 * Automatically generated based on a public key
   * 16 characters name
 
+#### Weakness
+
+* End-to-End correlation
+* Autonomous system \(AS\) eavesropping
+* Exit: node eavesdropping
+* Traffic-analysis attack
+* Tor exit node block
+* Bad apple attack
+* Some protocols expose IP address
+* 
 
 
