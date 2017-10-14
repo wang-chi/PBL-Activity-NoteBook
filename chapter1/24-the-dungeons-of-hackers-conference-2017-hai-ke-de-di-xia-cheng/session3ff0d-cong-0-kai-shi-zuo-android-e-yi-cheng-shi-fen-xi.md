@@ -33,11 +33,9 @@ smack底層是xmpp
 
 隱藏icon讓使用者感受不到
 
-
-
 攔截封包
 
-###### Android Http
+##### Android Http
 
 * HttpURLConnection
 * HiipClient
@@ -48,10 +46,19 @@ smack底層是xmpp
 
 從套件屬性了解
 
-SO\(Share object, 公想褲\)
+##### SO\(Share object, 共享庫\)
 
 * 二進制
 * 動態連結褲（類似windows, dll檔\)
-* 
+
+##### 惡意程式分析方向
+
+* 混淆以外的技巧
+  * ex:加殼要如何解殼去分析
+* 分析封包內容
+  * ex:加密要如何擠開去看裡面的封包
+
+
+
 
 
