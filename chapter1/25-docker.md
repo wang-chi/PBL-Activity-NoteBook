@@ -131,6 +131,9 @@ docker logs CONTAINER_ID
 
 #### \# Dokcer 映像檔
 
+1. Docker ocmmit
+2. Dockerfile  - docker build
+
 簡報連結：
 
 相關照片：
