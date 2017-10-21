@@ -134,6 +134,17 @@ docker logs CONTAINER_ID
 1. Docker ocmmit
 2. Dockerfile  - docker build
 
+#### \# Dockerfile撰寫原則
+
+1. 必須命名為"Docekrfile"
+2. 可用 .dockerignore檔案
+
+
+
+add會解他
+
+add站得空間較大
+
 簡報連結：
 
 相關照片：
