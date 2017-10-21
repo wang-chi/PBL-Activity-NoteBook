@@ -76,27 +76,29 @@ Client端可以透過REST API去控制server\(Docker daemon\)
 
 #### \# Docker 映像檔指令
 
+> build-&gt;build a docker file
+
 ```bash
 docker build
 ```
 
-build-&gt;build a docker file
+>
 
 ```bash
 docker commit
 ```
 
-commit
+> history-&gt;看這個映像檔怎麼bulid出來的
 
 ```bash
 docker history
 ```
 
-history-&gt;看這個映像檔怎麼bulid出來的
+
 
 #### \# Docker 容器指令
 
-exec：Run a command in a running container
+> exec：Run a command in a running container
 
 ```
 docker exec
@@ -106,20 +108,22 @@ docker exec
 
 和 attach 不同
 
-ps:List container
+> ps:List container
 
 ```
 docker ps
 docker ps -al
 ```
 
-kill:Kill a running container
+> kill:Kill a running container
 
 ```
 docker kill
 ```
 
-log:
+> logs:fetch the logs of a container
+
+
 
 簡報連結：
 
