@@ -41,13 +41,15 @@ Client端可以透過REST API去控制server\(Docker daemon\)
 
 容器跟容器之間運作就可以叫做docker network
 
+#### \# Docker Compose
 
-
-
-
-
-
-
+* 一鍵完成多個容器
+* docker-compose.yml
+* 支援Docker Network
+* 支援Docker Volume
+* 建構完整軟體服務
+  * 如：3-tier
+* 快速建置測試模擬環境
 
 北榮有導入Docker
 
