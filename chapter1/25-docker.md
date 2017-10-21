@@ -26,15 +26,8 @@ container目前沒有snapshot
 
 1. 一個虛擬機的單位叫做**instance**
 2. VM和Container差異在於共用Host OS少掉Gust OS，效能上提升較多
-3. VM和Container在於VM會完全隔離
-4. 虛擬機因為有Gust OS，所以隔離性較佳 病毒不會互相感染
-5. Container在啟動速度、性能（接近原生）、
-
-
-
-
-
-
+3. VM和Container在於VM會完全隔離，VM有Gust OS，病毒不會互相感染，Container僅有安全隔離
+4. Container在啟動速度、性能（接近原生）、
 
 北榮有導入Docker
 
