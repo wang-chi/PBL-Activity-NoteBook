@@ -61,6 +61,7 @@ Client端可以透過REST API去控制server\(Docker daemon\)
 #### \# Docker Swarm
 
 * 容器叢集系統
+  * K8S, Mesos
 * 內建分散式鍵值儲存功能
 
 北榮有導入Docker
