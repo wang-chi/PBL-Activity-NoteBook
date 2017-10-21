@@ -143,7 +143,7 @@ add會解他
 
 add站得空間較大
 
-
+分析映像檔/container是否有漏洞，可用**clair, anchore**
 
 簡報連結：
 
