@@ -29,6 +29,26 @@ container目前沒有snapshot
 3. VM和Container在於VM會完全隔離，VM有Gust OS，病毒不會互相感染，Container僅有安全隔離
 4. Container在啟動速度、性能（接近原生）、
 
+#### \# The Matrix of Hell
+
+只要可以運作Docker的環境都可以移植映像檔
+
+#### \# Docker Engine
+
+Client端可以透過REST API去控制server\(Docker daemon\)
+
+一個容器跑起來在運作就叫做container
+
+容器跟容器之間運作就可以叫做docker network
+
+
+
+
+
+
+
+
+
 北榮有導入Docker
 
 簡報連結：
