@@ -76,13 +76,39 @@ Client端可以透過REST API去控制server\(Docker daemon\)
 
 #### \# Docker 映像檔指令
 
+```bash
+docker build
+```
+
 build-&gt;build a docker file
 
+```bash
+docker commit
+```
+
 commit
+
+```bash
+docker history
+```
 
 history-&gt;看這個映像檔怎麼bulid出來的
 
 #### \# Docker 容器指令
+
+exec：Run a command in a running container
+
+```
+docker exec
+```
+
+登入container 重新create一個
+
+和 attach 不同
+
+
+
+
 
 
 
