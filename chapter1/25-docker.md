@@ -82,7 +82,7 @@ Client端可以透過REST API去控制server\(Docker daemon\)
 docker build
 ```
 
->
+> commit
 
 ```bash
 docker commit
@@ -93,8 +93,6 @@ docker commit
 ```bash
 docker history
 ```
-
-
 
 #### \# Docker 容器指令
 
@@ -122,8 +120,6 @@ docker kill
 ```
 
 > logs:fetch the logs of a container
-
-
 
 簡報連結：
 
