@@ -60,10 +60,16 @@ Client端可以透過REST API去控制server\(Docker daemon\)
 
 #### \# Docker Swarm
 
+* Docker Engine 內建功能
 * 容器叢集系統
-  * K8S, Mesos
+  * K8S, Mesos\(用多台電腦跑多個container\)
 * 內建分散式鍵值儲存功能
 
+#### \# Docker Registry
+
+* 放Docker映像檔
+* 缺點：沒有權限管控
+* 
 北榮有導入Docker
 
 簡報連結：
