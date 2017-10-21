@@ -106,9 +106,18 @@ docker exec
 
 和 attach 不同
 
+ps:List container
 
+```
+docker ps
+docker ps -al
+```
 
+kill:Kill a running container
 
+```
+docker kill
+```
 
 
 
