@@ -96,30 +96,36 @@ docker history
 
 #### \# Docker 容器指令
 
+指令後面都接 **container id**
+
 > exec：Run a command in a running container
 
 ```
-docker exec
+docker exec CONTAINER_ID
 ```
 
 登入container 重新create一個
 
 和 attach 不同
 
-> ps:List container
+> ps：List container
 
 ```
 docker ps
 docker ps -al
 ```
 
-> kill:Kill a running container
+> kill：Kill a running container
 
 ```
-docker kill
+docker kill CONTAINER_ID
 ```
 
-> logs:fetch the logs of a container
+> logs：Fetch the logs of a container
+
+```
+docker logs CONTAINER_ID
+```
 
 簡報連結：
 
