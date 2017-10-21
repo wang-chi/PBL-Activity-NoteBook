@@ -112,7 +112,7 @@ docker exec CONTAINER_ID
 
 ```
 docker ps
-docker ps -al
+docker ps -a
 ```
 
 > kill：Kill a running container
