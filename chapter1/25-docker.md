@@ -51,6 +51,18 @@ Client端可以透過REST API去控制server\(Docker daemon\)
   * 如：3-tier
 * 快速建置測試模擬環境
 
+#### \# Docker Machine
+
+* 在多種平上建立VM
+* 一套工具適用所有雲端平台、虛擬化平台
+* 內建Dokcer Engine
+* 具備SSH功能
+
+#### \# Docker Swarm
+
+* 容器叢集系統
+* 內建分散式鍵值儲存功能
+
 北榮有導入Docker
 
 簡報連結：
