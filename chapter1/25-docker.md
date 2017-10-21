@@ -33,6 +33,8 @@ container目前沒有snapshot
 
 只要可以運作Docker的環境都可以移植映像檔
 
+---
+
 #### \# Docker Engine
 
 Client端可以透過REST API去控制server\(Docker daemon\)
@@ -69,8 +71,20 @@ Client端可以透過REST API去控制server\(Docker daemon\)
 
 * 放Docker映像檔
 * 缺點：沒有權限管控
-* 
-北榮有導入Docker
+* Docker Hub想像成Docker Registry
+* 北榮有導入Docker
+
+#### \# Docker 映像檔指令
+
+build-&gt;build a docker file
+
+commit
+
+history-&gt;看這個映像檔怎麼bulid出來的
+
+#### \# Docker 容器指令
+
+
 
 簡報連結：
 
