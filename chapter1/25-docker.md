@@ -100,13 +100,13 @@ docker history
 
 > exec：Run a command in a running container
 
-```
-docker exec CONTAINER_ID
-```
-
 登入container 重新create一個
 
 和 attach 不同
+
+```
+docker exec CONTAINER_ID
+```
 
 > ps：List container
 
@@ -130,8 +130,6 @@ docker logs CONTAINER_ID
 ```
 
 #### \# Dokcer 映像檔
-
-
 
 簡報連結：
 
