@@ -139,11 +139,11 @@ docker logs CONTAINER_ID
 1. 必須命名為"Docekrfile"
 2. 可用 .dockerignore檔案
 
-
-
 add會解他
 
 add站得空間較大
+
+
 
 簡報連結：
 
