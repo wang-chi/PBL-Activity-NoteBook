@@ -110,6 +110,8 @@ docker exec CONTAINER_ID
 
 > ps：List container
 
+顯示目前container的列表
+
 ```
 docker ps
 docker ps -a
@@ -126,6 +128,10 @@ docker kill CONTAINER_ID
 ```
 docker logs CONTAINER_ID
 ```
+
+#### \# Dokcer 映像檔
+
+
 
 簡報連結：
 
