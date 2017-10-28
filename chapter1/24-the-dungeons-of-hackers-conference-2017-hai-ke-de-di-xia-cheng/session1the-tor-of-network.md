@@ -1,5 +1,13 @@
 ### The Tor of Network
 
+---
+
+筆記
+
+心得
+
+---
+
 Tor \( the onion router, 洋蔥路由器\)
 
 P2P
@@ -53,6 +61,8 @@ Deep Web or Dark Web
 * Tor exit node block
 * Bad apple attack
 * Some protocols expose IP address
-* 
+
+---
+
 
 
