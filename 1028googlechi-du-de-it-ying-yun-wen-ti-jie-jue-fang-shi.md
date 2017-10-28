@@ -4,9 +4,16 @@ Google開放很多資訊讓大家一同開發
 
 NoSQL速度快 沒有關聯性
 
+分成4個Topic
+
+* [Optimize](#optimize最佳化)
+* [Collabroate](#collaborate合作)
+* [Accelerate](#accelerate快速成長)
+* [Partner](#partner)
+
 ---
 
-### 最佳化Optimize
+### Optimize最佳化
 
 7 service products
 
@@ -22,13 +29,13 @@ NoSQL速度快 沒有關聯性
 
 ---
 
-### Collaborate
+### Collaborate合作
 
 利用現有大家的創意匯集起來
 
 ---
 
-### Accelerate
+### Accelerate快速成長
 
 如何拿到數據去創造一個商業模式
 
