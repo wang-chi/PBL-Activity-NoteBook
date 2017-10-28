@@ -12,24 +12,18 @@
 
 * [2017 TCN創客松Start-Up](chapter1/22.md)
 
-## Taiwan OpenStack
+## OpenStack
 
 * [Taiwan OpenStack User Group ](chapter1/23.md)
+* [2Docker](chapter1/25-docker.md)
 
-## The Dungeons of Hackers Conference 2017
+## 自主學習
 
-* [2.4 The Dungeons of Hackers Conference 2017 - 駭客的地下城](chapter1/24-the-dungeons-of-hackers-conference-2017-hai-ke-de-di-xia-cheng.md)
+* [The Dungeons of Hackers Conference 2017 - 駭客的地下城](chapter1/24-the-dungeons-of-hackers-conference-2017-hai-ke-de-di-xia-cheng.md)
   * [2.4.1 Session1－The Tor Of Network](chapter1/24-the-dungeons-of-hackers-conference-2017-hai-ke-de-di-xia-cheng/session1the-tor-of-network.md)
   * [2.4.2 Session2－The Security of SDN](chapter1/24-the-dungeons-of-hackers-conference-2017-hai-ke-de-di-xia-cheng/session2the-security-of-sdn.md)
   * [2.4.3 Session3－從0開始做Android惡意程式分析](chapter1/24-the-dungeons-of-hackers-conference-2017-hai-ke-de-di-xia-cheng/session3ff0d-cong-0-kai-shi-zuo-android-e-yi-cheng-shi-fen-xi.md)
   * [2.4.4 Session4－從密碼學](chapter1/24-the-dungeons-of-hackers-conference-2017-hai-ke-de-di-xia-cheng/session4ff0d-cong-mi-ma-xue.md)
-
-## Docker
-
-* [2.5 Docker](chapter1/25-docker.md)
-
-## 2017 MOPCON
-
-* [2.6 MOPCON](25.md)
+* [2017 MOPCON](25.md)
 * [【10/28】Google尺度的IT營運問題解決方式](1028googlechi-du-de-it-ying-yun-wen-ti-jie-jue-fang-shi.md)
 
