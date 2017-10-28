@@ -2,8 +2,6 @@
 
 ---
 
-OutLine
-
 【OpenStack】
 
 1. [Taiwan OpenStack User Group](/chapter1/23.md)
