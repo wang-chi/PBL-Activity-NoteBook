@@ -20,8 +20,6 @@ amazon echo : 意圖導向
 
 Amazon Echo &lt;-&gt; Alexa Skill &lt;-&gt; AWS Lambda &lt;-&gt; Facebook Page
 
-
-
 * Deep Learning will enable AI
 
 * Large amounts of data will be processed in real-time
@@ -32,7 +30,21 @@ Amazon Echo &lt;-&gt; Alexa Skill &lt;-&gt; AWS Lambda &lt;-&gt; Facebook Page
 
 * **More and more **devices will collect data and connect to your applications
 
-* Create an event-driven model across all your connected devices using** Publish/Subscribs**
+* Create an event-driven model across all your connected devices using** Publish/Subscribe**
+
+建置虛實結合
+
+##### IoT推進會遇到的問題
+
+* Round-trip 網路連結不穩定
+* 連接性問題
+* 頻寬
+
+### AWS Greengrass
+
+* React quickly upon local events and operate offline
+* Synchronize back to your cloud environment
+* Receive over-the-air updates from your central cloud environment
 
 
 
