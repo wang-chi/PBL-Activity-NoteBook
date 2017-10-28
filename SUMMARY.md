@@ -6,15 +6,15 @@
 
 ## R語言
 
-* [2.1 統計學家教你穩紮穩打Ｒ語言資料分析](chapter1/21-tong-ji-xue-jia-jiao-ni-wen-za-wen-da-ff32-yu-yan-zi-liao-fen-xi.md)
+* [1 統計學家教你穩紮穩打Ｒ語言資料分析](chapter1/21-tong-ji-xue-jia-jiao-ni-wen-za-wen-da-ff32-yu-yan-zi-liao-fen-xi.md)
 
 ## 2017 TCN創客松Start-Up
 
-* [2.2 2017 TCN創客松Start-Up](chapter1/22.md)
+* [2017 TCN創客松Start-Up](chapter1/22.md)
 
 ## Taiwan OpenStack
 
-* [2.3 Taiwan OpenStack User Group ](chapter1/23.md)
+* [Taiwan OpenStack User Group ](chapter1/23.md)
 
 ## The Dungeons of Hackers Conference 2017
 
@@ -31,4 +31,5 @@
 ## 2017 MOPCON
 
 * [2.6 MOPCON](25.md)
+* [【10/28】Google尺度的IT營運問題解決方式](1028googlechi-du-de-it-ying-yun-wen-ti-jie-jue-fang-shi.md)
 
