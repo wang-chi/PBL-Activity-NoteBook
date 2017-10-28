@@ -21,5 +21,5 @@
 * [4. 2017 MOPCON](25.md)
   * [【10/28】Google尺度的IT營運問題解決方式](1028googlechi-du-de-it-ying-yun-wen-ti-jie-jue-fang-shi.md)
   * [【10/28】如何寫出有效率、好讀、可維護的 Java / Android 程式](1028.md)
-  * 【10/28】透過客製Sketch Plug-in 開發改善產品設計流程
+  * [【10/28】透過客製Sketch Plug-in 開發改善產品設計流程](10283011-tou-guo-ke-zhi-sketch-plug-in-kai-fa-gai-shan-chan-pin-she-ji-liu-cheng.md)
 
