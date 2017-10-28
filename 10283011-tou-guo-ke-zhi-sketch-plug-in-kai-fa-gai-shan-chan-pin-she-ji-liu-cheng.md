@@ -35,16 +35,15 @@ Google Translation API
 
 * Sketch Plugin開發/CocoaScript
 
-1.  CocoaScript,前身為JSTalk,缺乏IDE/Editor支援，可以使用Objective-J Syntax Hightlight.
-2.  錯誤訊息意味不明, 混用JavaScript 與 Objective-C 物件，有時不容易分辨是屬於哪一種類型的物件
-3.  因為呼叫macOS系統JavaScript Core直譯器，不同版本OS可以支援的JS與法不同
-4.  可呼叫所有Cocoa framework及sketch app中頭所有的class
-5.  要用setCOSJSTargetFunction:實作Target/Action
-6.  無法實作Delegate/Block，無法呼叫非同步的API
-7.  缺少API文件，基本上只能參考github上人家classdump出來的header files.
-8.  每一代Sketch能呼叫的API都不太一樣，所以在Sketch升級後，之前寫的Plug-in可能無法使用（Sketch改版不會通知已改版）
-9. 
+* CocoaScript,前身為JSTalk,缺乏IDE/Editor支援，可以使用Objective-J Syntax Hightlight.
 
-
+* 錯誤訊息意味不明, 混用JavaScript 與 Objective-C 物件，有時不容易分辨是屬於哪一種類型的物件
+* 因為呼叫macOS系統JavaScript Core直譯器，不同版本OS可以支援的JS與法不同
+* 可呼叫所有Cocoa framework及sketch app中頭所有的class
+* 要用setCOSJSTargetFunction:實作Target/Action
+* 無法實作Delegate/Block，無法呼叫非同步的API
+* 缺少API文件，基本上只能參考github上人家classdump出來的header files.
+* 每一代Sketch能呼叫的API都不太一樣，所以在Sketch升級後，之前寫的Plug-in可能無法使用（Sketch改版不會通知已改版）
+* 
 
 
