@@ -60,7 +60,5 @@ SDN的運作原理
     * 新增flow table action: Encrypt and Decrypt
     * 僅留下routing需要留下的
 
-    * 
-
 
 

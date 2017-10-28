@@ -19,5 +19,6 @@
   * [【Session3】從0開始做Android惡意程式分析](chapter1/24-the-dungeons-of-hackers-conference-2017-hai-ke-de-di-xia-cheng/session3ff0d-cong-0-kai-shi-zuo-android-e-yi-cheng-shi-fen-xi.md)
   * [【Session4】從密碼學](chapter1/24-the-dungeons-of-hackers-conference-2017-hai-ke-de-di-xia-cheng/session4ff0d-cong-mi-ma-xue.md)
 * [4. 2017 MOPCON](25.md)
-* [【10/28】Google尺度的IT營運問題解決方式](1028googlechi-du-de-it-ying-yun-wen-ti-jie-jue-fang-shi.md)
+  * [【10/28】Google尺度的IT營運問題解決方式](1028googlechi-du-de-it-ying-yun-wen-ti-jie-jue-fang-shi.md)
+  * [【10/28】如何寫出有效率、好讀、可維護的 Java / Android 程式](1028.md)
 

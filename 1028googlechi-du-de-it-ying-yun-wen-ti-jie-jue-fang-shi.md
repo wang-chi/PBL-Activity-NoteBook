@@ -39,6 +39,15 @@ NoSQL速度快 沒有關聯性
 
 如何拿到數據去創造一個商業模式
 
+
+
+Google Cloud Platform 
+
+Cloud Machine Learing
+
+* 使用TensorFlow框架架構的模型
+* 利用Google可擴充的框架
+
 ---
 
 ### Partner
