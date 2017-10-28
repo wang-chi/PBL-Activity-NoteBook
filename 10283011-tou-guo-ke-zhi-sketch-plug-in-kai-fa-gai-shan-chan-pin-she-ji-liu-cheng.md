@@ -14,6 +14,16 @@
 * 法規不同
   * 稅收差異
   * 金流服務
+* 中文是字串長度最短的
+* 設計初期就先套用多國語文
 
+痛點：翻譯完自傳才發現過長，往往影響開發流程
 
+解法：初期就能夠預覽多國語言字串，而且可以自動化
+
+## Sketch Plugins
+
+URL:[https://www.sketchapp.com/extensions/plugins/](https://www.sketchapp.com/extensions/plugins/)
+
+Google Translation API
 
